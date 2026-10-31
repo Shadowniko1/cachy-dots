@@ -4,7 +4,7 @@
 
 ###
 
-<p align="left">my cachyOS dotfiles<br>Shell: caelestia-shell</p>
+<p align="left">my cachyOS dotfiles.<br>Shell: caelestia-shell<br>Included:<br>•cava<br>•fastfetch</p>
 
 # Screenshots
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/fb339bae-76bc-4091-bf91-6382ecaf73b0" />
