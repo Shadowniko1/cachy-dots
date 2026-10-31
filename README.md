@@ -1,6 +1,6 @@
 # cachy-dots
 
-<img align="right" height="180" src="https://github.com/CachyOS/calamares-config/blob/grub-3.2/etc/calamares/branding/cachyos/logo.png?raw=true"  />
+<img align="right" height="300" src="https://github.com/CachyOS/calamares-config/blob/grub-3.2/etc/calamares/branding/cachyos/logo.png?raw=true"  />
 
 ###
 
