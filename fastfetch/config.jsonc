@@ -1,0 +1,38 @@
+{
+  "$schema": "https://github.com/fastfetch-cli/fastfetch/raw/master/doc/json_schema.json",
+  "logo": {
+    "type": "sixel",
+    "source": "~/.config/fastfetch/pic.jpg",
+    "width": 16,
+    "height": 7,
+    "padding": {
+      "top": 0,
+      "left": 1
+    },
+   },
+  "modules": [
+    { "type": "custom", "format": "Shadow" },
+    "separator",
+    { "type": "custom", "key": "os  ", "format": "CachyOS" },
+    { "type": "uptime", "key": "up  " },
+    { "type": "shell", "key": "shel", "format": "{pretty-name}" },
+    { "type": "command", "key": "ramu", "text": "free -b | awk '/Mem/ {printf \"%.2fgb/%.2fgb\", $3/1073741824, $2/1073741824}'" },
+//    { "type": "memory", "key": "ramu", "format": "{used}/{total}" },
+//    { "type": "swap", "key": "swapu" },
+    "break"
+  ],
+  "display": {
+    "separator": " ",
+    "color": {
+      "keys": "#8f8bc1",
+      "title": "#9c7cb6"
+    },
+    "percent": {
+      "color": {
+        "green": "#b67cb2",
+        "yellow": "#afacd3",
+        "red": "#fd4663"
+      }
+    }
+  }
+}
