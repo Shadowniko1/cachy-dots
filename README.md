@@ -14,4 +14,4 @@
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/9fba64ad-f7c2-4c84-92c8-cd70e365816e" />
 
 #
-i dont know how to make an install script but u can just open a folder with something u want to get and install that and put it in the right place
+i dont know how to make an install script but u can just open a folder with something u want to get and install that and put it in the right place..
